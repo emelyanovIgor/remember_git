@@ -1,2 +1,2 @@
-/.ssh
-/remember_git
+.ssh/*
+remember_git/*
