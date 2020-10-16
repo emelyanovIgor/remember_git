@@ -1,4 +1,5 @@
-.gitignore
+#my_gitIgnore
+
 temp/
 remember_git/
 .ssh/
